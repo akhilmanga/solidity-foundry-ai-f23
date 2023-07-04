@@ -246,9 +246,6 @@ Git
 What is a terminal?
 
 Gitpod
-⌨️ (6:40:19) | Gitpod
-
-Gitpod
 If using this, NEVER share a private key with real money on Gitpod
 Ideally you figure out the MacOS, Linux, or Windows install though
 Local Development Introduction
@@ -256,7 +253,6 @@ CMD + K or CTRL + K clears the terminal
 code . to open VSCode in a new VSCode window
 Foundry Install
 
-https://getfoundry.sh
 VSCode Setup II
 
 CoPilot
