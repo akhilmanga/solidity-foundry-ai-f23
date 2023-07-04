@@ -260,4 +260,79 @@ Copilot labs
 Hardhat Solidity Extension
 VSCodium
 
+Foundry Setup
+
+Formatting Solidity in VSCode:
+
+Format your solidity code with in your settings.json
+    "[solidity]": {
+        "editor.defaultFormatter": "NomicFoundation.hardhat-solidity"
+    },
+    "[javascript]":{
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+Compiling in Foundry
+
+Deploying to a local chain I (Anvil or Ganache)
+
+Ganache
+Adding another network to Metamask
+
+ETH JSON RPC
+Deploying to a local chain II (Forge Create)
+
+2 Ways to deploy:
+forge create
+forge script
+Private Key Rant I
+
+
+history -c
+Deploying to a local chain III (Forge Script)
+
+What is a transaction?
+
+cast --to-base 0x01 dec
+Private Key Rant II
+
+
+cast send
+source .env
+Can you Encrypt a Private Key -> a keystore in foundry yet??
+
+The .env pledge
+ThirdWeb Deploy
+Special Guest Ciara
+nodejs install
+npm install
+
+
+Private Key:
+When you look to deploy 
+with real money, you should use either:
+1. A password encrypted keystore
+2. Something like thirdweb deploy
+
+The idea is you never want to have 
+your private key or password 
+ANYWHERE written in plain text
+(Aka, you always want it encrypted)
+Cast Send
+Deploying to a testnet or a mainnet
+
+Alchemy
+Other node as a service:
+Quicknode
+Infura
+Verifying a contract the manual way
+Example verified contract
+
+forge fmt
+README.md
+Alchemy & the mempool
+
+----------------------------------------------------------------------------------------------------------------------
+Completed Video 1
+----------------------------------------------------------------------------------------------------------------------
+
 
