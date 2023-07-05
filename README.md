@@ -335,4 +335,43 @@ Alchemy & the mempool
 Completed Video 1
 ----------------------------------------------------------------------------------------------------------------------
 
+# Lesson 7:
 
+Setup
+Testing Introduction
+
+Chainlink Brownie Contracts Github Repo
+forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+Dependencies
+remappings
+Chainlink Brownie Contracts
+Tests
+foundry tests
+console.log
+Debugging Tests I
+
+Advanced Deploy Scripts I
+
+4 types of testing:
+1. Unit: Testing a single function
+2. Integration: Testing multiple functions
+3. Forked: Testing on a forked network
+4. Staging: Testing on a live network (testnet or mainnet)
+forking in foundry
+forge coverage
+Refactoring I: Testing Deploy Scripts
+
+Refactoring II: Helper Config
+
+block.chainid
+Chain ID List
+11155111 is ETH Sepolia
+1 is ETH Mainnet
+Refactoring III: Mocking
+
+Mocking
+Chainlink Github
+Multiple Versions of Solidity
+Magic Numbers
+
+Refactoring III: Mocking (continued)
