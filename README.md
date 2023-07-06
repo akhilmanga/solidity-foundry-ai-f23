@@ -375,3 +375,58 @@ Multiple Versions of Solidity
 Magic Numbers
 
 Refactoring III: Mocking (continued)
+
+More Cheatcodes
+
+foundry cheatcodes
+forge std cheats
+vm.expectRevert
+vm.prank
+makeAddr
+deal
+More Coverage
+
+State tree testing
+Arrange, Act, Assert
+hoax
+uint160 -> address
+vm.startPrank
+Chisel
+
+Chisel
+Gas: Cheaper Withdraw
+
+Gas Reporter
+forge snapshot
+vm.txGasPrice
+gasLeft()
+tx.getprice
+Storage
+
+** Advanced **
+Storage Layout
+Purpose of the memory keyword
+cast storage
+Opcodes
+Opcodes by Gas
+Opcodes by Gas
+Append s_ to storage variables
+Append i_ to immutable variables
+Caps lock and underscore constant variables
+Chainlink Solidity Style Guide
+Gas: Cheaper Withdraw
+
+evm.codes
+Style Guide
+Chainlink Style Guide
+NatSpec
+Interactions.s.sol
+
+
+foundry devops
+Best README Template
+ffi
+Makefile
+
+Etherscan API Key
+
