@@ -430,3 +430,113 @@ Makefile
 
 Etherscan API Key
 
+----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 8: Html/Js Fund Me
+
+More in-depth Javascript & Full Stack introduction video
+
+Live Server Extension
+How Metamask works with your browser
+Metamask Docs
+Ethers Docs
+Function selector
+cast sig
+
+----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 9: Foundry Smart Contract Lottery
+
+Raffle.sol Setup
+Solidity Contract Layout
+// Layout of Contract:
+// version
+// imports
+// errors
+// interfaces, libraries, contracts
+// Type declarations
+// State variables
+// Events
+// Modifiers
+// Functions
+
+// Layout of Functions:
+// constructor
+// receive function (if exists)
+// fallback function (if exists)
+// external
+// public
+// internal
+// private
+// internal & private view & pure functions
+// external & public view & pure functions
+
+
+Custom Errors in Solidity
+Events
+
+Introduction to Events
+Events & Logging Video
+Events & Logging in Hardhat
+block.timestamp
+
+Chainlink VRF
+Sub-Lesson: Chainlink VRF
+Chainlink VRFv2 Docs
+Chainlink VRFv2 Walkthrough
+Chainlink Contracts
+Implementing Chainlink VRF - Introduction
+Chainlink docs - create a random number
+Chainlink Brownie Contracts
+forge install smartcontractkit/chainlink-brownie-contracts@0.6.1 --no-commit
+Implementing Chainlink VRF - The Request
+Implementing Chainlink VRF - The FulFill
+
+Modulo
+Enum
+
+Resetting an array
+
+CEI (Checks, Effects, Interactions)
+
+Chainlink Automation
+Chainlink Automation Walkthrough
+Implementing Chainlink Keepers - checkUpkeep
+Enums
+Implementing Chainlink Keepers - checkUpkeep continued
+block.timestamp
+Implementing Chainlink Keepers - performUpkeep
+
+Mid-Lesson Recap
+
+Mock Chainlink VRF Coordinator
+Tests & Deploy Script Continued
+Testing Events in Foundry
+
+vm.roll & vm.warp
+Create Subscription Script
+Create Subscription from the UI
+Fund Subscription Script
+
+Link Token
+Solmate
+Openzeppelin
+Add Consumer Script
+forge coverage --report debug
+PerformUpkeep Tests
+
+Expecting Custom Errors
+Getting Event Data into Foundry Scripts
+
+vm.recordLogs
+Intro to Fuzz tests
+
+Passing the private key to vm.startBroadcast
+
+Integrations Test
+
+Testnet Demo - Makefile setup
+Console.log Debugging
+forge test --debug
+
+----------------------------------------------------------------------------------------------------------------------
