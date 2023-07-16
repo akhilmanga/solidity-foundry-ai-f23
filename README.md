@@ -432,7 +432,7 @@ Etherscan API Key
 
 ----------------------------------------------------------------------------------------------------------------------
 
-# Lesson 8: Html/Js Fund Me
+# Lesson 8:
 
 More in-depth Javascript & Full Stack introduction video
 
@@ -445,7 +445,7 @@ cast sig
 
 ----------------------------------------------------------------------------------------------------------------------
 
-# Lesson 9: Foundry Smart Contract Lottery
+# Lesson 9:
 
 Raffle.sol Setup
 Solidity Contract Layout
@@ -539,4 +539,97 @@ Testnet Demo - Makefile setup
 Console.log Debugging
 forge test --debug
 
+----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 10:
+
+What is an ERC? What is an EIP?
+What is an EIP?
+EIPs codebase
+What is an ERC20?
+
+EIP-20
+ERC-677
+EIP-777
+Manually Creating an ERC20 Token
+ERC20 Token - Openzeppelin
+
+
+Openzeppelin
+Openzeppelin Wizard
+Openzeppelin Contracts
+Solmate (Openzeppelin alternative)
+Deploy Script
+
+AI Tests
+
+Token Approvals
+
+----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 11:
+
+What is an NFT?
+EIP-721
+Foundry Setup
+
+TokenURI
+Pudgy Penguin Example
+IPFS
+
+Basic NFT: Deploy Script
+Basic NFT: Tests
+
+Comparing strings in solidity
+chisel
+Basic NFT: Interactions
+
+The issue with IPFS & HTTPS TokenURI NFTs
+
+What is an SVG?
+
+svg
+vscode extension
+base64 encoding
+SVG NFT: Introduction
+
+base64 openzeppelin
+SVG NFT: Flipping the mood
+SVG NFT: Deploy Script
+readFile Cheat
+SVG NFT: Debugging practice
+SVG NFT: Anvil Demo
+
+arweave
+filecoin
+nft.storage
+Patrick video on Filecoin
+Filecoin & Arweave
+
+
+Advanced: EVM Opcodes, Encoding, and Calling
+abi.encode & abi.encodePacked
+abi.encode
+abi.encodePacked Thanks to Alex Roan for his help on this session!
+Example Contract Creation Transaction What REALLY is the ABI?
+EVM Opcodes
+More EVM Opcodes
+Solidity Cheatsheet
+abi.encode vs abi.encodePacked
+Introduction to Encoding Function Calls Directly
+Introduction to Encoding Function Calls
+Encoding Function Calls Directly
+Function Selector
+Function Signature
+Verifying Metamask Transactions
+
+Check the address
+Check the function selector
+Decode the calldata
+joinfire.zxyz
+
+ENS
+
+----------------------------------------------------------------------------------------------------------------------
+Completed Video 2!!
 ----------------------------------------------------------------------------------------------------------------------
