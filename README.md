@@ -633,3 +633,113 @@ ENS
 ----------------------------------------------------------------------------------------------------------------------
 Completed Video 2!!
 ----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 12:
+
+What is DeFi?
+What is DeFi?
+DefiLlama
+Bankless
+MEV
+Aave
+My Previous Aave Video on Shorting Assets
+DAI
+Uniswap
+Maximal Extractable Value (MEV)
+Code Walkthrough
+
+What is a smart contract audit
+What is a stablecoin?
+
+Video
+MakerDAO Forums
+DecentralizedStableCoin.sol
+
+What is a smart contract audit
+super
+DSCEngine.sol Setup
+
+liquidations
+nonreentrant
+reentrancy
+Deposit Collateral
+
+Other DeFi Examples:
+Aave V2 Docs
+Aave NPM
+Mint DSC
+Getting the value of our collateral
+
+Aave Borrowing FAQs
+Health Factor
+Aave Risk Parameters
+Health Factor
+Liquidation Threshold
+Minting the DSC
+Testing while developing
+Deploy Script
+
+WETH Token Sepolia Etherscan
+WETH Token Mainnet
+Tests
+
+depositCollateralAndMintDsc
+redeemCollateral
+Liquidate
+Refactoring
+
+Fuzz (Invariant) Testing
+Open-based Fuzz tests
+Handler-based Fuzz tests
+revert_on_fail = true
+
+
+Redeeming Collateral
+Minting DSC
+
+Debugging Fuzz Tests
+Ghost Variables
+Price Feed Handling
+OracleLib
+Note on audit preparedness
+Simple security checklist
+Lens Protocol
+More DeFi Learnings:
+Defi-Minimal
+Defi Dad
+
+----------------------------------------------------------------------------------------------------------------------
+
+# Lesson 13:
+
+Upgradable Smart Contracts Overview
+Optional Video
+Types of Upgrades
+Parameter
+Social Migrate
+Proxy
+Proxy Gotchas
+Function Collisions
+Storage Collisions
+Metamorphic Upgrades
+Transparent
+UUPS
+Diamond
+Delegatecall
+Yul
+Small Proxy Example
+
+EIP 1967
+Universal Upgradable Smart Contract
+
+UUPS vs Transparent
+Abstract Contracts
+Initializer
+Deploy
+ERC-1967
+UpgradeBox
+Test
+
+----------------------------------------------------------------------------------------------------------------------
+
+
